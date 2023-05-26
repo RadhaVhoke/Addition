@@ -10,6 +10,15 @@ public class Add {
       a=20;
       b=30;
       System.out.println("Addition : "+(a+b));
+		
+      // added from github 
+      a=40;
+      b=50;
+      System.out.println("Addition : "+(a+b));
+		
+		
+		
+		
 	}
 
 }
